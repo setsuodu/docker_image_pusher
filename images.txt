@@ -17,6 +17,9 @@ redis
 wordpress
 halohub/halo:2.17.2
 wiznote/wizserver:latest
+axboy/leanote
+neosmemo/memos:latest
+star7th/showdoc
 hslr/sun-panel:latest
 easysoft/zentao
 gitlab/gitlab-ce:latest
