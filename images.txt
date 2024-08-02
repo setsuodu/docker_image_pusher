@@ -26,4 +26,5 @@ gitlab/gitlab-ce:latest
 jenkins/jenkins
 #heroiclabs/nakama:latest
 #ykxvk8yl5l/pikpak:latest
-linuxserver/obsidian:latest
+#linuxserver/obsidian:latest
+joplin/server:latest
