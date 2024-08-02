@@ -28,3 +28,4 @@ jenkins/jenkins
 #ykxvk8yl5l/pikpak:latest
 #linuxserver/obsidian:latest
 joplin/server:latest
+portainer/portainer-ce:latest
