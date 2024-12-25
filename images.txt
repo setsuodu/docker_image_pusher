@@ -29,3 +29,5 @@ jenkins/jenkins
 #linuxserver/obsidian:latest
 joplin/server:latest
 portainer/portainer-ce:latest
+# 2024/12/26 rtmp
+shimachao/rtmp:latest
