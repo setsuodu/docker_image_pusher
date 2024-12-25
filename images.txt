@@ -30,4 +30,4 @@ jenkins/jenkins
 joplin/server:latest
 portainer/portainer-ce:latest
 # 2024/12/26 rtmp
-shimachao/rtmp:latest
+shimachao/rtmp:nginx-1.10.2
