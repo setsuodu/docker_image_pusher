@@ -31,3 +31,5 @@ joplin/server:latest
 portainer/portainer-ce:latest
 # 2024/12/26 rtmp
 shimachao/rtmp:nginx-1.10.2
+# 2024/12/31 rtsp
+bluenviron/mediamtx:latest
