@@ -15,7 +15,7 @@ redis
 
 #我的常用库
 wordpress
-halohub/halo:2.20.12
+halohub/halo:2.21.9
 wiznote/wizserver:latest
 axboy/leanote
 neosmemo/memos:latest
