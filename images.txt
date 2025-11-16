@@ -15,18 +15,14 @@ redis
 
 #我的常用库
 wordpress
+gitlab/gitlab-ce:latest
 halohub/halo:2.21.9
-wiznote/wizserver:latest
-axboy/leanote
 neosmemo/memos:latest
-star7th/showdoc
 hslr/sun-panel:latest
 easysoft/zentao
-gitlab/gitlab-ce:latest
 jenkins/jenkins
 #heroiclabs/nakama:latest
 #ykxvk8yl5l/pikpak:latest
-#linuxserver/obsidian:latest
 joplin/server:latest
 portainer/portainer-ce:latest
 # 2024/12/26 rtmp
