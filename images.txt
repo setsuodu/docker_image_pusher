@@ -15,17 +15,17 @@ redis
 
 #我的常用库
 python:3.8-slim
-wordpress
 gitlab/gitlab-ce:latest
 halohub/halo:2.21.9
-neosmemo/memos:latest
 hslr/sun-panel:latest
-easysoft/zentao
-jenkins/jenkins
-#heroiclabs/nakama:latest
-#ykxvk8yl5l/pikpak:latest
 joplin/server:latest
 portainer/portainer-ce:latest
+#wordpress
+#neosmemo/memos:latest
+#easysoft/zentao
+#jenkins/jenkins
+#heroiclabs/nakama:latest
+#ykxvk8yl5l/pikpak:latest
 # 2024/12/26 rtmp
 shimachao/rtmp:nginx-1.10.2
 # 2024/12/31 rtsp
