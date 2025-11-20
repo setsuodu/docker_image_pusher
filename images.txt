@@ -14,6 +14,7 @@ redis
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #我的常用库
+python:3.8-slim
 wordpress
 gitlab/gitlab-ce:latest
 halohub/halo:2.21.9
