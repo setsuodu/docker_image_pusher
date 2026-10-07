@@ -30,3 +30,4 @@ portainer/portainer-ce:latest
 shimachao/rtmp:nginx-1.10.2
 # 2024/12/31 rtsp
 bluenviron/mediamtx:latest
+node:20-slim
